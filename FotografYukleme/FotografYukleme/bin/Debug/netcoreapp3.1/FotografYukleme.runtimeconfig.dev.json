@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Merilin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Merilin\\.nuget\\packages"
+    ]
+  }
+}
